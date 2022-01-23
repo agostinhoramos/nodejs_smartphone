@@ -1,4 +1,4 @@
-var Smartphone = require('../models/smartphone.model.js');
+const Smartphone = require('../models/smartphone.model.js');
 
 // .Env
 const dotenv = require('dotenv');
